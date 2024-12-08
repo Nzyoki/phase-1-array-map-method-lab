@@ -11,7 +11,7 @@ const tutorials = [
   "what is JSONP?",
 ];
 
-const nemAray=[];
+//const nemAray=[];
 
 function titleCased(){
   return tutorials.map((title)=>{
